@@ -5,3 +5,4 @@ Here the list of algorithims are:
 2. Climbing Stairs
 3. N Queens Problem
 4. Tower of Hanoi
+These are to be hosted on my vercel site: https://i-panicked-and-made-this.vercel.app
