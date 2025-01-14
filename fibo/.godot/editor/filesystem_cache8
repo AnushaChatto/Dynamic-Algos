@@ -1,4 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1736797934
+::res://::1736876469
+container.gd::GDScript::-1::1736802945::0::1::::<>Container<>::
 icon.svg::CompressedTexture2D::3008928807069733153::1736797249::1736797257::1::::<><>::
-node_2d.tscn::PackedScene::8486526650187199955::1736797542::0::1::::<><>::
+node_2d.tscn::PackedScene::8486526650187199955::1736875953::0::1::::<><>::res://text_edit.gd<>res://container.gd
+text_edit.gd::GDScript::-1::1736802960::0::1::::<>TextEdit<>::

@@ -1,20 +1,18 @@
-[gd_scene load_steps=3 format=3 uid="uid://ds564bi4clanb"]
+[gd_scene load_steps=2 format=3 uid="uid://ds564bi4clanb"]
 
-[ext_resource type="Script" path="res://text_edit.gd" id="1_g2ydf"]
-[ext_resource type="Script" path="res://container.gd" id="2_j6clx"]
+[ext_resource type="Script" path="res://node_2d.gd" id="1_crm4u"]
 
 [node name="Node2D" type="Node2D"]
+script = ExtResource("1_crm4u")
 
 [node name="TextEdit" type="TextEdit" parent="."]
 offset_left = 2.0
 offset_right = 599.0
 offset_bottom = 52.0
 placeholder_text = "Input Starting Number"
-script = ExtResource("1_g2ydf")
 
-[node name="Container" type="Container" parent="."]
+[node name="Container" type="TextEdit" parent="."]
 offset_left = -1.0
 offset_top = 52.0
 offset_right = 598.0
 offset_bottom = 649.0
-script = ExtResource("2_j6clx")
