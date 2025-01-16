@@ -6,4 +6,4 @@ Here the list of algorithims are:
 3. N Queens Problem - not started
 4. Tower of Hanoi - not started
 
-These are to be hosted on my vercel site: https://i-panicked-and-made-this.vercel.app
+These are to be hosted on the vercel site: https://i-panicked-and-made-this.vercel.app
